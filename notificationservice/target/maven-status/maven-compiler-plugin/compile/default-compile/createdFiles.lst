@@ -1,0 +1,3 @@
+com\mystore\notificationservice\event\OrderPlacedEvent.class
+com\mystore\notificationservice\NotificationserviceApplication.class
+com\mystore\notificationservice\event\ProductPlacedEvent.class

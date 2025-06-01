@@ -1,0 +1,12 @@
+C:\Users\WD\Downloads\onlinestore\orderservice\src\main\java\com\mystore\orderservice\configuration\OrderConfig.java
+C:\Users\WD\Downloads\onlinestore\orderservice\src\main\java\com\mystore\orderservice\configuration\WebClientConfig.java
+C:\Users\WD\Downloads\onlinestore\orderservice\src\main\java\com\mystore\orderservice\controller\OrderController.java
+C:\Users\WD\Downloads\onlinestore\orderservice\src\main\java\com\mystore\orderservice\dto\InventoryResponse.java
+C:\Users\WD\Downloads\onlinestore\orderservice\src\main\java\com\mystore\orderservice\dto\OrderLineProductsDto.java
+C:\Users\WD\Downloads\onlinestore\orderservice\src\main\java\com\mystore\orderservice\dto\OrderRequest.java
+C:\Users\WD\Downloads\onlinestore\orderservice\src\main\java\com\mystore\orderservice\event\OrderPlacedEvent.java
+C:\Users\WD\Downloads\onlinestore\orderservice\src\main\java\com\mystore\orderservice\model\Order.java
+C:\Users\WD\Downloads\onlinestore\orderservice\src\main\java\com\mystore\orderservice\model\OrderLineProducts.java
+C:\Users\WD\Downloads\onlinestore\orderservice\src\main\java\com\mystore\orderservice\OrderserviceApplication.java
+C:\Users\WD\Downloads\onlinestore\orderservice\src\main\java\com\mystore\orderservice\repository\OrderRepository.java
+C:\Users\WD\Downloads\onlinestore\orderservice\src\main\java\com\mystore\orderservice\service\OrderService.java

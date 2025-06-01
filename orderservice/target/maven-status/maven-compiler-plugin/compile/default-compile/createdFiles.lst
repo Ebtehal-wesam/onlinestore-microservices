@@ -1,0 +1,15 @@
+com\mystore\orderservice\configuration\WebClientConfig.class
+com\mystore\orderservice\controller\OrderController.class
+com\mystore\orderservice\service\OrderService.class
+com\mystore\orderservice\dto\InventoryResponse.class
+com\mystore\orderservice\configuration\OrderConfig.class
+com\mystore\orderservice\model\Order.class
+com\mystore\orderservice\dto\OrderRequest.class
+com\mystore\orderservice\model\OrderLineProducts$OrderLineProductsBuilder.class
+com\mystore\orderservice\event\OrderPlacedEvent.class
+com\mystore\orderservice\dto\OrderLineProductsDto.class
+com\mystore\orderservice\repository\OrderRepository.class
+com\mystore\orderservice\model\Order$OrderBuilder.class
+com\mystore\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\mystore\orderservice\OrderserviceApplication.class
+com\mystore\orderservice\model\OrderLineProducts.class

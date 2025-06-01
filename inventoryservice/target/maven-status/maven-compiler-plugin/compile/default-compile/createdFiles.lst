@@ -1,0 +1,10 @@
+com\mystore\notificationservice\service\InventoryService.class
+com\mystore\notificationservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\mystore\notificationservice\dto\InventoryDto$InventoryDtoBuilder.class
+com\mystore\notificationservice\model\Inventory$InventoryBuilder.class
+com\mystore\notificationservice\repository\InventoryRepository.class
+com\mystore\notificationservice\controller\InventoryController.class
+com\mystore\notificationservice\dto\InventoryDto.class
+com\mystore\notificationservice\dto\InventoryResponse.class
+com\mystore\notificationservice\InventoryserviceApplication.class
+com\mystore\notificationservice\model\Inventory.class
